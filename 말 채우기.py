@@ -5,5 +5,5 @@ celebrity = input("Enter a celebrity: ")
 
 print("Roses are " + color)
 print(plural_noun + "are blue")
-print("I love" + celebrity)
+print("I love " + celebrity)
 
